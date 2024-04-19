@@ -6,7 +6,7 @@
 
 <div>
   <a href="https://github.com/PauloPivatto38">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloPivatto38&show_icons=true&theme=transparent&inclue_all_comits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloPivatto38&show_icons=true&theme=dark&inclue_all_comits=true&count_private=true"/>
 </div>
   
   <div style="display: inline_block"><br>
@@ -14,6 +14,7 @@
     <img align"center" alt="Paulo-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align"center" alt="Paulo-Css" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align"center" alt="Paulo-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img align"right" alt="Paulo-gif" height="30" width="40" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"
 </div>
   
 ##
@@ -21,3 +22,9 @@
 <div>
   <a href="https://www.instagram.com/p.pivatto/" target+"_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/paulo-pivatto-819853195/" target+"_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+  ##
+
+<div>
+    <img align"center" alt="Paulo-gif" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"
+</div>
